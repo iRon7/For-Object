@@ -1,4 +1,5 @@
 <#PSScriptInfo
+.Description  ForEach-Object with a pipeline Index ($PSIndex), see: https://github.com/PowerShell/PowerShell/issues/13772
 .VERSION 0.0.1
 .GUID 19631007-c461-4682-a58d-0bfe9202908d
 .AUTHOR iRon
@@ -11,7 +12,7 @@
 .EXTERNALMODULEDEPENDENCIES
 .REQUIREDSCRIPTS
 .EXTERNALSCRIPTDEPENDENCIES
-.RELEASENOTES #13772 ForEach-Object with a pipeline Index ($PSIndex)
+.RELEASENOTES
 .PRIVATEDATA
 #>
 
